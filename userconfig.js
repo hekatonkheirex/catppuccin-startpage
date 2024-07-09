@@ -15,11 +15,11 @@ const default_config = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "daily",
+      name: "dai ly",
       background_url: "src/img/banners/cbg-8.gif",
       categories: [
         {
-          name: "papers",
+          name: "newspapers",
           links: [
             {
               name: "abc",
@@ -85,16 +85,16 @@ const default_config = {
           name: "dev",
           links: [
             {
-              name: "github",
-              url: "https://github.com",
-              icon: "brand-github",
-              icon_color: "#b4befe",
-            },
-            {
               name: "chatgpt",
               url: "https://chat.openai.com",
               icon: "brand-openai",
               icon_color: "#94e2d5",
+            },
+            {
+              name: "github",
+              url: "https://github.com",
+              icon: "brand-github",
+              icon_color: "#b4befe",
             },
             {
               name: "perplexity",
@@ -108,12 +108,6 @@ const default_config = {
           name: "study",
           links: [
             {
-              name: "skills4all",
-              url: "https://skillsforall.com/",
-              icon: "access-point",
-              icon_color: "#89b4fa",
-            },
-            {
               name: "hackthebox",
               url: "https://account.hackthebox.com/login",
               icon: "box",
@@ -125,11 +119,23 @@ const default_config = {
               icon: "brain",
               icon_color: "#f9e2af",
             },
+            {
+              name: "skills4all",
+              url: "https://skillsforall.com/",
+              icon: "access-point",
+              icon_color: "#89b4fa",
+            },
           ],
         },
         {
           name: "blogs",
           links: [
+            {
+              name: "easywp",
+              url: "https://dashboard.easywp.com/login",
+              icon: "brand-wordpress",
+              icon_color: "#b4befe",
+            },
             {
               name: "me",
               url: "https://rodrigomurayama.com/",
@@ -141,12 +147,6 @@ const default_config = {
               url: "https://www.namecheap.com/",
               icon: "accessible",
               icon_color: "#fab387",
-            },
-            {
-              name: "easywp",
-              url: "https://dashboard.easywp.com/login",
-              icon: "brand-wordpress",
-              icon_color: "#b4befe",
             },
           ],
         },
@@ -212,16 +212,16 @@ const default_config = {
               icon_color: "#a6e3a1",
             },
             {
-              name: "youtube",
-              url: "https://www.youtube.com",
-              icon: "brand-youtube",
-              icon_color: "#fab387",
-            },
-            {
               name: "twitch",
               url: "https://www.twitch.tv/",
               icon: "brand-twitch",
               icon_color: "#cba6f7",
+            },
+            {
+              name: "youtube",
+              url: "https://www.youtube.com",
+              icon: "brand-youtube",
+              icon_color: "#fab387",
             },
           ],
         },
