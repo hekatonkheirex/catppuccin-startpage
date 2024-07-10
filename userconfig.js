@@ -243,7 +243,7 @@ const default_config = {
             {
               name: "pixiv",
               url: "https://pixiv.net/",
-              icon: "brand'funanimation",
+              icon: "brand-funanimation",
               icon_color: "#89b4fa",
             },
             {
