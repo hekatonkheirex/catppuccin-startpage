@@ -15,11 +15,11 @@ const default_config = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "dai ly",
+      name: "毎日",
       background_url: "src/img/banners/cbg-8.gif",
       categories: [
         {
-          name: "newspapers",
+          name: "新聞",
           links: [
             {
               name: "abc",
@@ -42,7 +42,7 @@ const default_config = {
           ],
         },
         {
-          name: "mail",
+          name: "郵便",
           links: [
             {
               name: "gmail",
@@ -65,7 +65,7 @@ const default_config = {
           ],
         },
         {
-          name: "bookmarks",
+          name: "ブックマーク",
           links: [
             {
               name: "raindrop",
@@ -78,11 +78,11 @@ const default_config = {
       ],
     },
     {
-      name: "dev",
+      name: "開発",
       background_url: "src/img/banners/cbg-7.gif",
       categories: [
         {
-          name: "dev",
+          name: "開発",
           links: [
             {
               name: "chatgpt",
@@ -105,7 +105,7 @@ const default_config = {
           ],
         },
         {
-          name: "study",
+          name: "勉強",
           links: [
             {
               name: "hackthebox",
@@ -128,7 +128,7 @@ const default_config = {
           ],
         },
         {
-          name: "blogs",
+          name: "ブログ",
           links: [
             {
               name: "easywp",
@@ -153,11 +153,11 @@ const default_config = {
       ],
     },
     {
-      name: "chi ll",
+      name: "冷静に",
       background_url: "src/img/banners/cbg-10.gif",
       categories: [
         {
-          name: "social media",
+          name: "社会的",
           links: [
             {
               name: "bluesky",
@@ -192,7 +192,7 @@ const default_config = {
           ],
         },
         {
-          name: "random",
+          name: "ランダム",
           links: [
             {
               name: "reddit",
@@ -203,7 +203,7 @@ const default_config = {
           ],
         },
         {
-          name: "video",
+          name: "ビデオ",
           links: [
             {
               name: "kick",
@@ -228,11 +228,11 @@ const default_config = {
       ],
     },
     {
-      name: "resour",
+      name: "資源",
       background_url: "src/img/banners/cbg-4.gif",
       categories: [
         {
-          name: "resources",
+          name: "資源",
           links: [
             {
               name: "deviant art",
