@@ -12,8 +12,11 @@ https://github.com/hekatonkheirex/catppuccin-startpage/assets/40499728/d96c8bd6-
 
 ## Overview
 
+# Original text
 Aesthetic and clean startpage in [**Catppuccin Mocha**](https://catppuccin.com/palette) style, hosted on GitHub Pages. This start page is based on the [`dawn`](https://github.com/b-coimbra/dawn) and [`tartarus-startpage`](https://github.com/AllJavi/tartarus-startpage), which has even more functionality.
 I've tweaked the page's style to match [Catppuccin](https://github.com/catppuccin/catppuccin) palette and my [`dotfiles`](https://github.com/hekatonkheirex/dotfiles).
+
+# Fork
 This is a fork from the awesome [pivoshenko's catppuccin-startpage](https://github.com/pivoshenko/catppuccin-startpage) and edited to suit my needs.
 
 ### Main principles
