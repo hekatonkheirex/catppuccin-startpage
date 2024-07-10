@@ -228,7 +228,7 @@ const default_config = {
       ],
     },
     {
-      name: "resources",
+      name: "resour",
       background_url: "src/img/banners/cbg-4.gif",
       categories: [
         {
