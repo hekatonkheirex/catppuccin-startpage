@@ -227,6 +227,35 @@ const default_config = {
         },
       ],
     },
+    {
+      name: "resources",
+      background_url: "src/img/banners/cbg-4.gif",
+      categories: [
+        {
+          name: "resources",
+          links: [
+            {
+              name: "deviant art",
+              url: "https://www.deviantart.com/",
+              icon: "brand-deviantart",
+              icon_color: "#a6e3a1",
+            },
+            {
+              name: "pixiv",
+              url: "https://pixiv.net/",
+              icon: "brand'funanimation",
+              icon_color: "#89b4fa",
+            },
+            {
+              name: "wallhaven",
+              url: "https://wallhaven.cc/",
+              icon: "wall",
+              icon_color: "#cdd6f4",
+            },
+          ],
+        },
+      ],
+    },
   ],
 };
 
