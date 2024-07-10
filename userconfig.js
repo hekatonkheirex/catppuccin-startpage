@@ -99,7 +99,7 @@ const default_config = {
             {
               name: "perplexity",
               url: "https://www.perplexity.ai/",
-              icon: "ai",
+              icon: "brain",
               icon_color: "#b4befe",
             },
           ],
@@ -162,7 +162,7 @@ const default_config = {
             {
               name: "bluesky",
               url: "https://bsky.app",
-              icon: "brand-bluesky",
+              icon: "butterfly",
               icon_color: "#89b4fa",
             },
             {
