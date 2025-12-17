@@ -63,19 +63,19 @@ const default_configuration = {
             {
               name: "protonmail",
               url: "https://mail.proton.me/u/0/inbox",
-              icon: "brand-proton",
+              icon: "atom",
               icon_color: palette.purple,
             },
             {
               name: "outlook",
               url: "https://outlook.live.com/mail/0",
-              icon: "brand-outlook",
+              icon: "mail",
               icon_color: palette.blue,
             },
             {
               name: "yahoo",
               url: "https://mail.yahoo.com/n/inbox/priority?.src=ym&reason=myc",
-              icon: "brand-yahoo",
+              icon: "mail",
               icon_color: palette.purple,
             },
           ],
@@ -87,18 +87,18 @@ const default_configuration = {
               name: "chatGPT",
               url: "https://chat.openai.com",
               icon: "brand-openai",
-              icon_color: palette.purple,
+              icon_color: palette.white,
             },
             {
               name: "gemini",
               url: "https://gemini.google.com/app",
-              icon: "brand-gemini",
+              icon: "brand-google",
               icon_color: palette.peach,
             },
             {
               name: "claude",
               url: "https://claude.ai/new",
-              icon: "brand-claude",
+              icon: "ai",
               icon_color: palette.orange,
             },
           ],
@@ -116,7 +116,7 @@ const default_configuration = {
               name: "twitch",
               url: "https://www.twitch.tv",
               icon: "brand-twitch",
-              icon_color: palette.purple,
+              icon_color: palette.white,
             },
             {
               name: "netflix",
@@ -138,7 +138,7 @@ const default_configuration = {
             {
               name: "abc",
               url: "https://www.abc.com.py",
-              icon: "newspaper",
+              icon: "news",
               icon_color: palette.yellow,
             },
             {
@@ -150,7 +150,7 @@ const default_configuration = {
             {
               name: "uh",
               url: "https://www.ultimahora.com",
-              icon: "newspaper",
+              icon: "news",
               icon_color: palette.white,
             },
           ],
@@ -161,7 +161,7 @@ const default_configuration = {
             {
               name: "inoreader",
               url: "https://www.inoreader.com/dashboard",
-              icon: "brand-inoreader",
+              icon: "rss",
               icon_color: palette.blueS,
             },
             {
@@ -178,7 +178,7 @@ const default_configuration = {
             {
               name: "asunciON!",
               url: "https://asuncion.live/",
-              icon: "city",
+              icon: "calendar-event",
               icon_color: palette.red,
             },
             {
@@ -208,7 +208,7 @@ const default_configuration = {
               name: "x",
               url: "https://x.com/home",
               icon: "brand-x",
-              icon_color: palette.black,
+              icon_color: palette.white,
             },
           ],
         },
@@ -235,7 +235,7 @@ const default_configuration = {
             {
               name: "ente",
               url: "https://web.ente.io/gallery",
-              icon: "brand-ente",
+              icon: "photo-up",
               icon_color: palette.green,
             },
             {
@@ -254,7 +254,7 @@ const default_configuration = {
               name: "bluesky",
               url: "https://bsky.app",
               icon: "brand-bluesky",
-              icon_color: palette.cyan,
+              icon_color: palette.blue,
             },
           ],
         },
