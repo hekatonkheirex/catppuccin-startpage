@@ -17,14 +17,6 @@ const default_configuration = {
     format: "h:i",
     icon_color: palette.maroon,
   },
-//  additionalClocks: [
-//    {
-//      label: "ASU",
-//      timezone: "America/Asuncion",
-//      format: "k:i p",
-//      icon_color: palette.peach,
-//    },
-//  ],
   search: {
     engines: {
       d: ["https://duckduckgo.com/?q=", "DuckDuckGo"],
