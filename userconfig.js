@@ -17,6 +17,7 @@ const default_configuration = {
     format: "h:i",
     icon_color: palette.maroon,
   },
+  disabled: [],
   search: {
     engines: {
       d: ["https://duckduckgo.com/?q=", "DuckDuckGo"],
